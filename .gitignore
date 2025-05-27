@@ -1,0 +1,6 @@
+# Ignorar archivos de clases Java compiladas 
+*.class 
+*.swp 
+.vscode/ 
+.history/ 
+*.code-workspace 
