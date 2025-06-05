@@ -1,0 +1,7 @@
+#Ignorar archivos
+*.class 
+*.swp 
+.vscode/ 
+.history/ 
+*.code-workspace 
+/db/
